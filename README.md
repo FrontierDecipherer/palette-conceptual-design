@@ -1,2 +1,2 @@
-# palette-conceptual-design
-conceptual design for our game.
+## 心之绘
+游戏《心之绘》的概念设计。
